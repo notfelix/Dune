@@ -375,3 +375,25 @@ A canonical framework for narrative, design, and VR staging.
 - Prescience is perception of possibility, not destiny; fleeing a vision fulfills it, embracing it makes it slip away. This tension drives Dune’s spiritual engine.
 
 </details>
+
+---
+
+<script>
+(function () {
+  function openTargetDetails() {
+    const hash = decodeURIComponent((location.hash || '').replace('#', ''));
+    if (!hash) return;
+    const target = document.getElementById(hash);
+    if (!target) return;
+    let el = target;
+    while (el) {
+      if (el.tagName && el.tagName.toLowerCase() === 'details') {
+        el.open = true;
+      }
+      el = el.parentElement;
+    }
+  }
+  window.addEventListener('DOMContentLoaded', openTargetDetails);
+  window.addEventListener('hashchange', openTargetDetails);
+})();
+</script>
