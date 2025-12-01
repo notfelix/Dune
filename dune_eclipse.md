@@ -3,7 +3,7 @@
 ---
 
 ## **Index**
-1. [Film Recaps: Part One, Part Two, *Dune Messiah*](#recaps)
+1. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
    - [Dune Messiah](#messiah-film)
@@ -16,11 +16,11 @@
 ---
 
 <details>
-<summary><strong>1. Film Recaps: Part One, Part Two, *Dune Messiah*</strong></summary>
+<summary><strong>1. Film Recaps: Part One, Part Two, Messiah</strong></summary>
 
 <a id="recaps"></a>
 
-## 1. Film Recaps: Part One, Part Two, *Dune Messiah*
+## 1. Film Recaps: Part One, Part Two, Messiah
 Consolidated summaries of the essential story events from Denis Villeneuve’s films and the expected *Dune Messiah* adaptation.
 
 <details>
@@ -68,7 +68,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 </details>
 
 <details>
-<summary><strong>Dune Messiah (12 Years Later)</strong></summary>
+<summary><strong>Messiah</strong></summary>
 
 <a id="messiah-film"></a>
 
@@ -124,60 +124,6 @@ Core principles to keep available in every conversation so epic and intimate mom
 <a id="devices"></a>
 
 ## 3. Mechanics & Story Devices
-
-VR-native tools and narrative devices to keep the experience continuous, epic/intimate, and diegetically justified.
-
-### **Experience Nodes (Interstice Era)**
-Curated real-time moments between *Part Two* and *Messiah* that chain cleanly while honoring epic scale, intimacy, group identity, and continuous time.
-
-**1) Immediate Aftermath of Paul’s Victory**  
-Worldstate: Feyd is dead; Shaddam deposed; Fremen ecstatic and volatile.  
-Epic: Smoldering imperial keep; Fremen host chanting “Muad’Dib!”; worms circling the plateau.  
-Intimate: Reverend Mother (Jessica or new) pulls guests aside for a post-battle “soul reading”: “Do you know the danger of what we unleashed?”  
-Group identity: Fremen guerillas or folded-in Atreides soldiers.  
-Flow: Battlefield smoke → chanting crowd → private chamber → vision → back to ramparts.
-
-**2) Early Formation of the Jihad (Unwanted Miracle)**  
-Worldstate: Militias self-organize; fanaticism ignites despite Paul’s reluctance.  
-Epic: Rally at Arrakeen flats; early militias; captured Sardaukar paraded; worms looming.  
-Intimate: Reverend Mother warns of the coming tidal wave; private test (Gom Jabbar variant) to see if you’ll prevent, survive, or be consumed by it.  
-Flow: Aftermath → swelling crowd → chamber → trance → out to the flats.
-
-**3) Search for Paul and Jessica**  
-Worldstate: Shortly after conquest, Paul vanishes into the deep desert; Jessica slips south.  
-Epic: Night tracking along worm furrows; cresting dunes; nearly swallowed by a stirring behemoth.  
-Intimate: Incense-lit sietch shrine; visions of Paul’s possible futures, messianic risks, and your role.  
-Group identity: Fremen strike cell or Atreides survivors integrated into Fremen.  
-Flow: Patrol → worm peril → sheltered shrine → vision → new heading.
-
-**4) First Rebellions Against Paul (Skeptical Sietches)**  
-Worldstate: Not all Fremen accept a messiah; some reject him politically/religiously.  
-Epic: Ridge riddled with caves; chants of defiance; standoff between loyalists and hardliners.  
-Intimate: In the depths, a Reverend Mother tests you: “Stand with prophecy or the old ways?” (Gom Jabbar/vision corridor fit here.)  
-Value: Moral tension in VR is felt, not told.
-
-**5) Early Imperial Politics on Arrakis**  
-Worldstate: Landsraad chaos; Guild negotiates spice quotas; BG emissaries angle for influence; Sardaukar remnants lurk.  
-Epic: A Heighliner hanging above Arrakeen; Fremen sandcrawlers like ants under a celestial hull.  
-Intimate: BG envoy corners you, probes loyalty, offers forbidden knowledge via the Voice; perfect slot for the Reverend Mother + Gom Jabbar.  
-Flow: Balcony scale → whispered chamber → choice → crowd again.
-
-**6) First Water of Life Ceremonies After Ascendancy**  
-Worldstate: Jessica oversees dangerous, hallucinatory rites to cement power and vision.  
-Epic: Underground cavern of chanting Fremen; soundscape merges voices and desert wind; worms envisioned as time-gods.  
-Intimate: Reverend Mother hand-to-hand eye contact; shared prescient space; fear/potential named.  
-Use: Diegetic justification for visions, flashforwards, branching timelines while maintaining continuous time.
-
-**7) Deep Desert Pilgrimage (Paul Disappears South)**  
-Worldstate: Paul makes excursions with select Fedaykin.  
-Epic: Colossal sandstorm; moonlit navigation; surrounded by multiple worms.  
-Intimate: Lamplit sietch pause; Reverend Mother admits, “Even Muad’Dib fears what he sees,” offering a personal vision of averting or amplifying catastrophe.  
-Group arc: Personal beats without breaking group cohesion.
-
-**8) Birth of the Fremen Empire (First Edicts)**  
-Worldstate: Early decrees reshape the Imperium—tax shifts, CHOAM restructuring, Fremen elevated, spice flow managed to check the Guild.  
-Epic: Balcony view of a city glowing in Fremen blue, celebrating new power.  
-Intimate: Jessica (or RM) pulls you aside: “History turns on fragile hinges. Even now, you may shape it.”
 
 ### **Foreshadowing Visions (Echo → Variance)**
 - Use visions early to preview future beats (worm-hook catch, Reverend Mother’s guidance, Arrakeen fuse). Mirror key elements later but alter lighting, stakes, or who is present to keep prophecy unstable and agency alive.
