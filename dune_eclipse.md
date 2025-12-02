@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><strong>1. Film Recaps: Part One, Part Two, *Dune Messiah*</strong></summary>
+<summary><strong>1. Film Recaps: Part One, Part Two, Messiah</strong></summary>
 
 <a id="recaps"></a>
 
