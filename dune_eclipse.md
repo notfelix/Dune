@@ -147,9 +147,6 @@ Core principles to keep available in every conversation so epic and intimate mom
 ### **Continuous-Time Flow**
 - Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
 
-### **Epic ↔ Intimate Structure**
-- Preferred rhythm: Epic (open desert, worm peril) → Vision bridge → Intimate test (Reverend Mother, Gom Jabbar) → Reorientation → Next challenge.
-
 ### **High-Throughput Interaction**
 - Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
 
@@ -198,34 +195,34 @@ Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, 
 - **Epic**: Following worm furrows at night; cresting a dune to reveal a sleeping behemoth; nearly swallowed as it stirs.
 - **Intimate**: Tiny incense-smoked sietch shrine visions—possible futures of Paul, risk of a messianic empire, war to come, your role in stabilizing or destabilizing it.
 
+<a id="interstitial-5"></a>
+
+### **3. Early Imperial Politics**
+- **Worldstate**: Landsraad in chaos; Guild Navigators fight for spice quotas; Bene Gesserit emissaries angle for control; Sardaukar remnants attempt guerrilla retaliation.
+- **Epic**: Colossal Guild Heighliner hovering over Arrakeen; Fremen sandcrawlers like ants under a celestial hull.
+- **Intimate**: BG envoy corners your group—probing intentions, testing loyalty, offering forbidden knowledge through whispered Voice. Ideal spot for a Reverend Mother + Gom Jabbar beat.
+
 <a id="interstitial-6"></a>
 
-### **3. First Water of Life Ceremonies**
+### **4. First Water of Life Ceremonies**
 - **Worldstate**: Jessica oversees dangerous, hallucinatory rites—prescience-adjacent, deeply intimate, visually spectacular.
 - **Epic**: Massive underground cavern filled with chanting Fremen; swelling soundscape of voices merging with desert winds; visions of sandworms becoming “gods of time.”
 - **Intimate**: Reverend Mother takes each guest’s hand into shared prescient space; direct eye contact names fear, potential, role. Perfect diegetic trigger for flashforwards/branching while keeping continuous time.
 
 <a id="interstitial-7"></a>
 
-### **4. Deep Desert Pilgrimage**
+### **5. Deep Desert Pilgrimage**
 - **Worldstate**: Paul undertakes deep-desert excursions with select Fedaykin.
 - **Epic**: Colossal sandstorm; navigation by Arrakis’ moons; surrounded by four or five worms at once.
 - **Intimate**: Quiet, lamplit sietch moment; Reverend Mother confides, “Even Muad’Dib fears what he sees.” Personal vision of averting or amplifying catastrophe—individual arcs without breaking group cohesion.
 
 <a id="interstitial-4"></a>
 
-### **5. First Rebellions Against Paul**
+### **6. First Rebellions Against Paul**
 - **Worldstate**: Some sietches reject him politically, religiously, culturally—before the jihad goes galactic.
 - **Epic**: Approaching a cave-riddled ridge; echoes of rebellious Fremen chants; standoff between Paul-loyalists and a hardline sietch.
 - **Intimate**: In the depths, a Reverend Mother tests: “With the child of prophecy or the old ways?” Perfect for Gom Jabbar or vision corridor.
 - **Value**: Moral tension felt in VR—social choice, ritual test, reverence vs. danger.
-
-<a id="interstitial-5"></a>
-
-### **6. Early Imperial Politics**
-- **Worldstate**: Landsraad in chaos; Guild Navigators fight for spice quotas; Bene Gesserit emissaries angle for control; Sardaukar remnants attempt guerrilla retaliation.
-- **Epic**: Colossal Guild Heighliner hovering over Arrakeen; Fremen sandcrawlers like ants under a celestial hull.
-- **Intimate**: BG envoy corners your group—probing intentions, testing loyalty, offering forbidden knowledge through whispered Voice. Ideal spot for a Reverend Mother + Gom Jabbar beat.
 
 <a id="interstitial-2"></a>
 
