@@ -3,7 +3,7 @@
 ---
 
 ## **Index**
-1. [Film Recaps: Part One, Part Two, Part Three: Messiah](#recaps)
+1. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
    - [Messiah](#messiah-film)
