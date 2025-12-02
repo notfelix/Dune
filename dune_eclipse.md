@@ -28,19 +28,28 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 
 <a id="part-one"></a>
 
-- **Caladan to Arrakis**: Duke Leto accepts the Emperor’s offer to govern Arrakis, knowing it is a poisoned chalice. Jessica defies Bene Gesserit orders by bearing a son, placing Paul inside a breeding scheme he only half understands.
-- **Early prescience**: Paul dreams of Chani and a desert battle where friends die. The dreams feel like branching probabilities, not fixed fate, and are colored by fear and desire.
-- **Gom Jabbar test**: Reverend Mother Mohiam tests Paul for humanity. He endures the pain box, proving control over instinct. Jessica and Mohiam argue over the Kwisatz Haderach timetable, hinting the Bene Gesserit no longer own this destiny.
-- **Political tripwires**: On arrival, Leto courts the Fremen via Stilgar, while Thufir Hawat maps sabotage left by Harkonnens (booby-trapped ornithopters, doctored carryalls). Liet-Kynes quietly signals Fremen sympathy.
-- **Spice harvester rescue**: Paul, Leto, and Kynes witness a sandworm devouring a stranded spice crawler. Paul’s first true spice overload blows open his senses; wind, sand, and prescient fragments flood him.
-- **Harkonnen and Sardaukar blade**: Yueh, coerced by the Harkonnens through his wife’s capture, disables shields and drugs Leto. Sardaukar, disguised as Harkonnen troops, lead the assault. Ornithopters burn on the runway; Atreides soldiers are outnumbered and outmaneuvered.
-- **Leto’s last play**: Yueh swaps a tooth into Leto’s mouth—a poison-gas suicide chance to kill the Baron. Leto bites the tooth in the Baron’s presence but kills the Mentat Piter instead; the Baron survives.
-- **The fall**: Duncan carves a path for Paul and Jessica to flee; Idaho dies in a last stand at the desert outpost. Thufir is captured; Gurney goes to ground. Kynes is mortally wounded and dies alone in the desert, hallucinating ecological plans for Arrakis.
-- **Flight into the dunes**: Paul and Jessica crash in a thopter, use the “weirding voice” to escape Harkonnen troopers, and nearly perish to a worm before scrambling to rock. Paul tastes spice in a stillsuit’s reclaimed water, binding him further to Arrakis.
-- **Sietch threshold**: Stilgar’s troop surrounds them. Jessica disarms Stilgar to prove value; Paul invokes Fremen prophecy, earning negotiation instead of execution.
-- **Duel with Jamis**: Fremen law demands Jamis’ challenge be answered. Paul kills him in his first lethal fight, learning there is no shielded practice on Arrakis. The death binds him to Fremen life; Jamis’ water is claimed for the tribe.
-- **Naming and belonging**: Paul receives the sietch name Usul (base of the pillar) and public name Muad’Dib (from the desert mouse). Jessica becomes a Sayyadina-in-training. Chani, assigned as Paul’s guide, quietly recognizes the boy from her own dreams.
-- **Vision weight**: In the sietch cavern, spice and exhaustion press Paul into deeper sight. He sees legions chanting his name, holy war spreading like fire, and pathways where refusal is also doom. He resolves to survive, but fears what survival will cost.
+- **Opening state and stakes**: Atreides depart Caladan for Arrakis knowing the Emperor’s “gift” is a trap. Leto plans alliance with Fremen; Jessica’s choice to bear a son makes Paul a volatile Kwisatz Haderach candidate and BG liability.
+- **Foreshadowing and tests**:
+  - Paul’s dreams of Chani and desert warfare feel probabilistic, not fixed; fear and desire color outcomes.
+  - Gom Jabbar: Mohiam’s pain-box test proves Paul’s control; BG timetable wobbles as Jessica and Mohiam argue over destiny ownership.
+- **Arrival and sabotage mapping**:
+  - Stilgar meeting sets a path to Fremen alliance; Liet-Kynes signals covert sympathy.
+  - Thufir/Gurney find Harkonnen tripwires (booby-trapped ‘thopters, sabotaged carryalls), underscoring imperial treachery.
+- **Spice overload and ecological awe**:
+  - Crawler rescue ends with a worm consuming the harvester; Paul’s first deep spice hit floods senses with branching futures and jihad imagery.
+- **Betrayal and fall of Atreides**:
+  - Yueh, coerced through his captured wife, drops shields and drugs Leto; Sardaukar join Harkonnens.
+  - Leto’s poison-tooth gambit kills Piter, not the Baron; Atreides force collapses.
+  - Duncan’s last stand buys Paul/Jessica time; Thufir captured, Gurney goes to ground; Kynes dies alone hallucinating terraforming plans.
+- **Desert escape and survival**:
+  - Paul/Jessica crash in a thopter, use Voice to escape hunters, and narrowly avoid a worm; Paul tastes spice in stillsuit water, deepening Arrakis bond.
+- **Fremen threshold and law**:
+  - Stilgar’s troop captures them; Jessica proves value by disarming Stilgar, shifting from execution to negotiation.
+  - Jamis invokes tahaddi challenge; Paul kills him—his first lethal duel—earning tribe entry and Jamis’ water.
+- **Integration and identity**:
+  - Paul named Usul (sietch) and Muad’Dib (public); Jessica becomes Sayyadina-in-training; Chani as guide and early partner recognizes him from her own dreams.
+- **Vision weight and resolve**:
+  - In the sietch, spice exhaustion deepens prescience: legions chanting Muad’Dib, holy war spreading. Paul commits to survival while fearing the cost of leadership.
 
 </details>
 
@@ -49,21 +58,35 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 
 <a id="part-two"></a>
 
-- **Time jump and raids**: Paul leads guerrilla strikes against Harkonnen spice operations; his Fedaykin grow into a mythic shock force. The Imperium bleeds spice revenue, alarming the Guild and the Emperor. [Early Formation of the Jihad](#interstitial-2)
-- **Jessica’s ascension**: To secure Fremen loyalty, Jessica undergoes the Water of Life ritual, transforming the lethal bile into awareness. She becomes Reverend Mother, unlocking Other Memory; her unborn daughter Alia awakens preborn, absorbing countless ancestral voices. [First Water of Life Ceremonies](#interstitial-6)
-- **Chani and Paul**: Their bond deepens into partnership. Chani grounds Paul’s humanity and challenges his growing fatalism, insisting on present choices over prophetic surrender.
-- **Politics on Giedi Prime**: Feyd-Rautha fights in the gladiatorial arena, displaying charisma and cruelty. Rabban’s brutal governance makes Harkonnens hated, while the Baron plots to replace Rabban with Feyd once Paul is killed.
-- **Southern fundamentalists**: Paul and Stilgar court southern Fremen naibs, balancing orthodox religious zeal with pragmatic command. Stilgar begins to see Paul as both messiah and political leader, blurring faith and strategy. [First Rebellions Against Paul](#interstitial-4)
-- **Water discipline and training**: Paul teaches new Fedaykin to fight without shields, to move like sand, and to use thumpers and worms as weapons. He emphasizes silence, rhythm, and vision-led tactics, making prescience a battlefield edge.
-- **The spice agony for Paul**: Seeking full prescient clarity to counter the Emperor and Guild, Paul drinks the Water of Life. He dies in trance and returns, perceiving time as a lattice. He senses atomic plots, Guild terror, and an unavoidable jihad branching from every path. [First Water of Life Ceremonies](#interstitial-6)
-- **Worm mastery**: To unify scattered sietches, Paul publicly rides a great maker. Hooks bite into the worm’s ring segments; Fremen chant his name. The act fuses religion and tactics, proving he can command the desert itself.
-- **The Emperor moves**: Shaddam IV brings Sardaukar and the Guild to Arrakis, landing with his court and Princess Irulan to crush the “desert problem.” He underestimates Fremen mobility and the desert’s lethality. [Early Imperial Politics](#interstitial-5)
-- **Shield wall breach**: Paul detonates a pre-spice mass (atomics) to shatter the Arrakeen shield wall, a calculated violation of Great Convention framed as necessity. Sandworms surge through the gap, turning the Sardaukar elite into prey. [Immediate Aftermath of Paul’s Victory](#interstitial-1)
-- **Battle of Arrakeen**: Fedaykin swarm through dust and storm; air support falls to ground fire. Paul’s prescience lets him anticipate Sardaukar feints. Stilgar commands flanks; Chani fights beside Paul. The Guild watches, fearing spice loss. [Immediate Aftermath of Paul’s Victory](#interstitial-1)
-- **Confrontation in the throne room**: Paul faces Shaddam, the Guild Navigator delegation, Reverend Mother Mohiam, and the Baron’s remains of power. He threatens to destroy all spice if denied the throne, holding the Imperium hostage to Arrakis.
-- **Kanly duel**: Feyd-Rautha, last Harkonnen heir, duels Paul with hidden poison and cunning footwork. Paul wins, killing Feyd and removing the Harkonnen claim.
-- **Political marriage**: Paul demands Irulan as his consort to legitimize rule but pledges his heart to Chani. Irulan becomes a political wedge; Chani feels betrayed by necessity. [Early Imperial Politics](#interstitial-5)
-- **Aftermath and dread**: Paul secures the throne; Shaddam is deposed. Fremen celebrate, offworld powers bow. Yet Paul sees rivers of blood in future corridors—his victory births the jihad he failed to avert. Chani walks away, shaken by imperial compromise. [Immediate Aftermath of Paul’s Victory](#interstitial-1) [Birth of the Fremen Empire](#interstitial-8)
+- **Opening state and guerrilla war**: Months later, Paul leads Fedaykin raids on Harkonnen spice ops; myths of Lisan al-Gaib swell; Guild/Emperor feel the spice revenue bleed. [Early Formation of the Jihad](#interstitial-2)
+- **Sietch politics and faith management**:
+  - Paul/Stilgar court southern naibs balancing zeal and pragmatism; Stilgar’s belief in Paul shifts from tactical leader to messiah.
+  - Fremen numbers grow; orthodox cells test loyalty and doctrine. [First Rebellions Against Paul](#interstitial-4)
+- **Jessica’s ascension and Alia’s awakening**:
+  - Jessica survives the Water of Life, becomes Reverend Mother; Alia awakens preborn in the womb with ancestral voices. [First Water of Life Ceremonies](#interstitial-6)
+  - Jessica steers prophecy to lock Paul’s legitimacy and stabilize the tribes.
+- **Paul’s prescient leap**:
+  - Paul drinks the Water of Life seeking clarity; dies/returns, seeing time as a lattice with jihad branches he cannot close. [First Water of Life Ceremonies](#interstitial-6)
+  - Prescient knowledge heightens alienation; tactical edge grows.
+- **Training and myth-making**:
+  - Paul drills shieldless, rhythm-based combat, thumpers, and worm-riding; Fedaykin become shock troops.
+  - Public worm ride unifies sietches; religion and tactics fuse.
+- **Harkonnen/Imperial counterplay**:
+  - On Giedi Prime, Feyd’s arena bout shows him as charismatic, lethal heir; Rabban’s brutality fuels rebellion.
+  - Emperor and Guild fret over spice collapse; BG angle through Irulan. [Early Imperial Politics](#interstitial-5)
+- **Chani vs. Irulan axis**:
+  - Paul and Chani deepen partnership; Irulan is positioned as political consort, creating emotional fracture and succession tension.
+- **Imperial landing and siege**:
+  - Shaddam arrives with Sardaukar, Guild entourage, and Irulan to crush the revolt; underestimates desert mobility and worm threat. [Early Imperial Politics](#interstitial-5)
+- **Shield Wall breach and Battle of Arrakeen**:
+  - Paul detonates pre-spice mass (atomics) to open the wall—a Great Convention edge case; worms flood Sardaukar ranks. [Immediate Aftermath of Paul’s Victory](#interstitial-1)
+  - Storm-cover assault; prescient-guided tactics counter Sardaukar feints; Guild watches spice leverage at risk. [Immediate Aftermath of Paul’s Victory](#interstitial-1)
+- **Throne-room reckoning**:
+  - Paul confronts Shaddam, Mohiam, Guild envoys, and Harkonnens; threatens total spice destruction to force abdication.
+  - Duels Feyd in kanly; kills him, ending Harkonnen claim.
+- **Settlement and dread**:
+  - Claims the throne and Irulan for legitimacy while keeping Chani as true partner; political wedge is set. [Early Imperial Politics](#interstitial-5)
+  - Victory seals the jihad he foresaw—Paul sees rivers of blood ahead; Chani walks away, shaken by imperial compromise. [Immediate Aftermath of Paul’s Victory](#interstitial-1) [Search for Paul and Jessica](#interstitial-3) [Birth of the Fremen Empire](#interstitial-8)
 
 </details>
 
@@ -72,18 +95,34 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 
 <a id="messiah-film"></a>
 
-- **Setting and cost**: Twelve years of Fremen-led jihad have killed billions, installing Atreides rule across the Imperium. Paul is emperor and messiah, yet hollowed by the violence done in his name. Qizarate priests formalize his myth; Fremen veterans grow into an occupying elite. [Early Formation of the Jihad](#interstitial-2)
-- **Political dread**: The Spacing Guild fears monopoly loss if Paul monopolizes spice. The Bene Gesserit resent a rogue Kwisatz Haderach. CHOAM partners grumble under Atreides control. Paul’s prescience shows only painful branches—every path sacrifices something he loves. [Early Imperial Politics](#interstitial-5)
-- **The conspiracy’s architecture**: Scytale (Tleilaxu Face Dancer) unites factions: Guild Navigators, Bene Gesserit (via Reverend Mother Mohiam and Irulan), and Tleilaxu Masters. The plot’s lever is psychological destabilization, not battlefield defeat.
-- **Hayt arrives**: A Duncan Idaho ghola, named Hayt, is gifted to Paul. He is engineered with buried triggers to assassinate Paul or break him emotionally. Hayt’s presence wounds Paul’s grief, dangling the impossible return of a friend.
-- **Stone burner attack**: Conspirators detonate a stone burner in Arrakeen, a nuclear device designed to blind. Paul loses his physical sight; he navigates solely through prescience, deepening his alienation and the theme of vision-as-prison. [First Rebellions Against Paul](#interstitial-4)
-- **Chani and Irulan**: Irulan, under BG pressure, doses Chani with contraceptives to force Paul to use her for an heir. Paul refuses Irulan, chooses Chani, and shifts Chani’s diet to Fremen fare, inadvertently accelerating her risky pregnancy. [First Water of Life Ceremonies](#interstitial-6)
-- **Paul’s moral spiral**: Blinded yet still seeing futures, Paul is trapped by his own visions. He debates fate with Stilgar, rails against religious excess, and knows the jihad machine cannot be stopped without worse consequences. [Birth of the Fremen Empire](#interstitial-8)
-- **Alia’s burden**: Preborn since the womb, Alia is now a young regent figure, battling the voices within. The Baron Harkonnen’s ancestral presence tempts her toward cruelty and manipulation.
-- **Guild leverage and spice threat**: The Guild contemplates cutting off spacefolding unless Paul cooperates. Paul counters with the ultimate deterrent: he could destroy spice production entirely, ending all space travel, if pushed.
-- **The crisis point**: Chani delivers twins, Leto II and Ghanima, but dies in childbirth. This loss is Paul’s foretold pain. Hayt’s buried memories awaken; Duncan resurfaces, breaking Tleilaxu conditioning through love and loyalty. [First Water of Life Ceremonies](#interstitial-6)
-- **Trial and choice**: Paul stands accused by a Fremen fundamentalist (Korba) for betraying the old ways, showing religion has outgrown its maker. He chooses blindness exile over rule, embracing Fremen custom that the blind walk into the desert. [Deep Desert Pilgrimage](#interstitial-7)
-- **Endgame**: Paul leaves power to Alia (as regent) and Stilgar/Irulean apparatus, vanishes into the sands, and becomes a living myth. The twins become the seed of the Golden Path—hinting at a future where humanity must be forced to survive beyond prescient control. [Birth of the Fremen Empire](#interstitial-8)
+- **Opening state and tension**: Twelve years post-jihad; Atreides/Fremen hegemony across the Imperium; Qizarate enforces Muad’Dib faith; CHOAM skewed by spice control; Paul is emperor and messiah but hollowed by violence and prescience-as-prison. [Early Formation of the Jihad](#interstitial-2)
+- **Conspiracy architecture and stakes**:
+  - Scytale (Tleilaxu Face Dancer) aligns Guild, Bene Gesserit (Mohiam/Irulan), Tleilaxu Masters, and Corrino remnants.
+  - Strategy: psychological destabilization over open war—erode Paul’s certainty, isolate him, and remove him without martyring him.
+- **Hayt arrives**: Duncan Idaho ghola gifted to Paul, engineered with kill triggers; weaponizes Paul’s grief while tempting Alia’s curiosity about ghola paradoxes.
+- **Inciting shocks**:
+  - Stone burner in Arrakeen blinds Paul physically; he navigates via prescience, deepening alienation and myth. [First Rebellions Against Paul](#interstitial-4)
+  - Qizarate zealots (Korba) and crowds press for harsher theocracy; unrest grows inside the faith-state.
+- **Middle pressure**:
+  - Paul vs. vision trap: sees only painful branches; contemplates spice-destruction as deterrent. [Early Imperial Politics](#interstitial-5)
+  - Chani vs. Irulan: Irulan’s contraceptive sabotage under BG orders; Paul rejects Irulan, shifts Chani to Fremen diet, accelerating a risky pregnancy. [First Water of Life Ceremonies](#interstitial-6)
+  - Guild/CHOAM leverage: threaten spacefold slowdown and economic squeeze; Paul’s counter-bluff is annihilating spice.
+  - Fremen fracture: Korba accuses Paul of betraying old ways; southern naibs debate faith vs. empire.
+  - Alia’s burden: preborn regent-in-training; ancestral voices tempt (Baron Harkonnen) toward cruelty.
+- **Conspiracy spring**:
+  - Scytale probes Hayt’s conditioning; dangles resurrection bargains; assassin vectors multiply inside the Keep.
+  - Paul faces formal charges of impiety; must prove leadership under Fremen custom despite blindness.
+- **Crisis and loss**:
+  - Chani’s pregnancy peaks; twins Leto II and Ghanima are born; Chani dies—Paul’s foretold pain arrives.
+  - Hayt trigger: ordered to kill Paul; awakened Duncan memories override conditioning through loyalty and love. [First Water of Life Ceremonies](#interstitial-6)
+  - Public perception wavers: miracle birth vs. omen; Qizarate spins martyrdom; Landsraad senses weakness.
+- **Choice and abdication**:
+  - Fremen custom: the blind walk into the desert. Paul accepts exile over becoming a puppet or tyrant.
+  - Settlement: Irulan remains consort; Alia named regent for the twins; Stilgar stabilizes; Guild/CHOAM placated by continuity. [Deep Desert Pilgrimage](#interstitial-7)
+- **Aftermath and seeds**:
+  - Paul steps into the dunes, becoming living myth (“the Preacher” whispers begin).
+  - Alia holds power but is vulnerable to possession; risk of future tyranny.
+  - Twins as Golden Path seed: preternatural awareness; prescient hope to break humanity’s dependence on narrow futures. [Birth of the Fremen Empire](#interstitial-8)
 
 </details>
 
