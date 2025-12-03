@@ -45,17 +45,13 @@ We will transport audiences into the world of Dune as if it was real - and as if
 ### North Stars
 Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
 
-### Epic + Intimate Poles
-- VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
+- **Epic + Intimate Poles**: VR superpowers - present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
 
-### Who We Are (Group Storytelling)
-- The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
+- **Who We Are (Group Storytelling)**: The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
 
-### Continuous-Time Flow
-- Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
+- **Continuous-Time Flow**: Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
 
-### High-Throughput Interaction
-- Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
+- **High-Throughput Interaction**: Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
 
 </details>
 
