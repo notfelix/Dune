@@ -3,36 +3,43 @@
 ---
 
 <style>
-  /* Normalize all subheadings to the same size; leave the top title (h1) larger */
-  h2, h3, h4, h5, h6 {
-    font-size: 1rem;
-    font-weight: 700;
-    margin: 1em 0 0.4em;
-  }
+  /* Restore tiered heading sizing and boost fold/open titles */
+  h2 { font-size: 1.5rem; font-weight: 700; margin: 1em 0 0.4em; }
+  h3 { font-size: 1.25rem; font-weight: 700; margin: 1em 0 0.4em; }
+  h4, h5, h6 { font-size: 1.1rem; font-weight: 700; margin: 1em 0 0.4em; }
+  details > summary strong { font-size: 1.2rem; }
 </style>
 
 ## **Index**
-1. [Experience Description and North Stars](#north-stars)
-2. [Film Recaps: Part One, Part Two, Messiah](#recaps)
+1. [Experience Description](#experience-description)
+2. [North Stars](#north-stars)
+3. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
    - [Messiah](#messiah-film)
-3. [Mechanics & Story Devices](#devices)
-4. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
-5. [Character Groups Justified in Having Visions](#groups)
-6. [Rules of Visions in the Dune Universe](#vision-rules)
+4. [Mechanics & Story Devices](#devices)
+5. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
+6. [Character Groups Justified in Having Visions](#groups)
+7. [Rules of Visions in the Dune Universe](#vision-rules)
 
 ---
 
 <details>
-<summary><strong>1. Experience Description and North Stars</strong></summary>
+<summary><strong>1. Experience Description</strong></summary>
+
+<a id="experience-description"></a>
+
+Placeholder description
+
+</details>
+
+---
+
+<details>
+<summary><strong>2. North Stars</strong></summary>
 
 <a id="north-stars"></a>
 
-### Experience Description
-Placeholder description
-
-### North Stars
 Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
 
 ### **Epic + Intimate Poles**
@@ -52,7 +59,7 @@ Core principles to keep available in every conversation so epic and intimate mom
 ---
 
 <details>
-<summary><strong>2. Film Recaps: Part One, Part Two, Messiah</strong></summary>
+<summary><strong>3. Film Recaps: Part One, Part Two, Messiah</strong></summary>
 
 <a id="recaps"></a>
 
@@ -166,7 +173,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 ---
 
 <details>
-<summary><strong>3. Mechanics & Story Devices</strong></summary>
+<summary><strong>4. Mechanics & Story Devices</strong></summary>
 
 <a id="devices"></a>
 
@@ -181,7 +188,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 ---
 
 <details>
-<summary><strong>4. Narrative Opportunities Between Part Two & Messiah</strong></summary>
+<summary><strong>5. Narrative Opportunities Between Part Two & Messiah</strong></summary>
 
 <a id="interstitial"></a>
 
@@ -253,7 +260,7 @@ Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, 
 ---
 
 <details>
-<summary><strong>5. Character Groups Who Can Have Visions</strong></summary>
+<summary><strong>6. Character Groups Who Can Have Visions</strong></summary>
 
 <a id="groups"></a>
 
@@ -322,7 +329,7 @@ Below is a clean, production-grade taxonomy of who the audience could be — mea
 ---
 
 <details>
-<summary><strong>6. Rules of Visions in Dune</strong></summary>
+<summary><strong>7. Rules of Visions in Dune</strong></summary>
 
 <a id="vision-rules"></a>
 
