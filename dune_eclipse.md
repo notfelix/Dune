@@ -11,21 +11,20 @@
 </style>
 
 ## **Index**
-1. [Experience Description](#experience-description)
-2. [North Stars](#north-stars)
-3. [Film Recaps: Part One, Part Two, Messiah](#recaps)
+1. [Experience Description and North Stars](#experience-description)
+2. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
    - [Messiah](#messiah-film)
-4. [Mechanics & Story Devices](#devices)
-5. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
-6. [Character Groups Justified in Having Visions](#groups)
-7. [Rules of Visions in the Dune Universe](#vision-rules)
+3. [Mechanics & Story Devices](#devices)
+4. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
+5. [Character Groups Justified in Having Visions](#groups)
+6. [Rules of Visions in the Dune Universe](#vision-rules)
 
 ---
 
 <details>
-<summary><strong>1. Experience Description</strong></summary>
+<summary><strong>1. Experience Description and North Stars</strong></summary>
 
 <a id="experience-description"></a>
 
@@ -41,27 +40,21 @@ We will create a large-scale, shared virtual reality experience capable of welco
 
 We will transport audiences into the world of Dune as if it was real - and as if audiences were truly living inside it. Audiences will become protagonists in a narrative that unfolds in realtime - like a real-life experience. Only virtual reality can provide this direct and visceral sense of being fully present within, and interacting with, the world of Dune. It's ultimately an opportunity for audiences to deepen their connection to the Dune universe.
 
-</details>
-
----
-
-<details>
-<summary><strong>2. North Stars</strong></summary>
-
 <a id="north-stars"></a>
 
+### North Stars
 Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
 
-### **Epic + Intimate Poles**
+### Epic + Intimate Poles
 - VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
 
-### **Who We Are (Group Storytelling)**
+### Who We Are (Group Storytelling)
 - The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
 
-### **Continuous-Time Flow**
+### Continuous-Time Flow
 - Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
 
-### **High-Throughput Interaction**
+### High-Throughput Interaction
 - Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
 
 </details>
@@ -69,7 +62,7 @@ Core principles to keep available in every conversation so epic and intimate mom
 ---
 
 <details>
-<summary><strong>3. Film Recaps: Part One, Part Two, Messiah</strong></summary>
+<summary><strong>2. Film Recaps: Part One, Part Two, Messiah</strong></summary>
 
 <a id="recaps"></a>
 
@@ -183,7 +176,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 ---
 
 <details>
-<summary><strong>4. Mechanics & Story Devices</strong></summary>
+<summary><strong>3. Mechanics & Story Devices</strong></summary>
 
 <a id="devices"></a>
 
@@ -198,7 +191,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 ---
 
 <details>
-<summary><strong>5. Narrative Opportunities Between Part Two & Messiah</strong></summary>
+<summary><strong>4. Narrative Opportunities Between Part Two & Messiah</strong></summary>
 
 <a id="interstitial"></a>
 
@@ -270,7 +263,7 @@ Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, 
 ---
 
 <details>
-<summary><strong>6. Character Groups Who Can Have Visions</strong></summary>
+<summary><strong>5. Character Groups Who Can Have Visions</strong></summary>
 
 <a id="groups"></a>
 
@@ -339,7 +332,7 @@ Below is a clean, production-grade taxonomy of who the audience could be — mea
 ---
 
 <details>
-<summary><strong>7. Rules of Visions in Dune</strong></summary>
+<summary><strong>6. Rules of Visions in Dune</strong></summary>
 
 <a id="vision-rules"></a>
 
