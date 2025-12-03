@@ -11,7 +11,7 @@
 </style>
 
 ## **Index**
-1. [Experience Description and North Stars](#experience-description)
+1. [Experience Description](#experience-description)
 2. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
@@ -25,7 +25,7 @@
 ---
 
 <details>
-<summary><strong>1. Experience Description and North Stars</strong></summary>
+<summary><strong>1. Experience Description</strong></summary>
 
 <a id="experience-description"></a>
 
@@ -40,6 +40,10 @@ We will create a large-scale, shared virtual reality experience capable of welco
 ### The Why
 
 We will transport audiences into the world of Dune as if it was real - and as if audiences were truly living inside it. Audiences will become protagonists in a narrative that unfolds in realtime - like a real-life experience. Only virtual reality can provide this direct and visceral sense of being fully present within, and interacting with, the world of Dune. It's ultimately an opportunity for audiences to deepen their connection to the Dune universe.
+
+### Timeline
+
+The experience is a prequel to Denis Villeneuve's trilogy and is set before the beginning of Dune 1, around the time Duncan Idaho is sent by Leto Atreides to Arrakis as a scout/liaison.
 
 <a id="north-stars"></a>
 
