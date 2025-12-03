@@ -2,6 +2,15 @@
 
 ---
 
+<style>
+  /* Normalize all subheadings to the same size; leave the top title (h1) larger */
+  h2, h3, h4, h5, h6 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 1em 0 0.4em;
+  }
+</style>
+
 ## **Index**
 1. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
@@ -20,7 +29,6 @@
 
 <a id="recaps"></a>
 
-## 1. Film Recaps: Part One, Part Two, Messiah
 Consolidated summaries of the essential story events from Denis Villeneuve’s films and the expected *Dune Messiah* adaptation.
 
 <details>
@@ -135,7 +143,6 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 
 <a id="north-stars"></a>
 
-## 2. Experience North Stars & Group Storytelling
 Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
 
 ### **Epic + Intimate Poles**
@@ -159,7 +166,6 @@ Core principles to keep available in every conversation so epic and intimate mom
 
 <a id="devices"></a>
 
-## 3. Mechanics & Story Devices
 
 ### **Foreshadowing Visions (Echo → Variance)**
 - Use visions early to preview future beats (worm-hook catch, Reverend Mother’s guidance, Arrakeen fuse). Mirror key elements later but alter lighting, stakes, or who is present to keep prophecy unstable and agency alive.
@@ -175,7 +181,6 @@ Core principles to keep available in every conversation so epic and intimate mom
 
 <a id="interstitial"></a>
 
-## 4. Narrative Opportunities Between Part Two & Messiah
 Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, aligned to epic scale vs. deep intimacy, continuous flow, group identity, diegetic visions, and high-throughput interactivity. Villeneuve ends *Part Two* with Paul seizing the throne, Fremen fanatic devotion, Chani leaving, and a galaxy on the brink of holy war. *Messiah* begins 12 years later after a jihad reshapes the galaxy—leaving a goldmine in the first days, weeks, and months after ascension.
 
 <a id="interstitial-1"></a>
@@ -248,7 +253,6 @@ Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, 
 
 <a id="groups"></a>
 
-## 5. Character Groups Who Can Have Visions
 Below is a clean, production-grade taxonomy of who the audience could be — meaning what in-world identity gives them the right, ability, or need to receive visions — fully aligned with the era between Villeneuve’s *Part Two* and the events of *Dune Messiah*. Grouped by tone, mysticism level, and how naturally they justify visions as a mechanic for spatial redirection and temporal montage.
 
 ### **1. Fremen Acolytes Trained by a Reverend Mother**
@@ -318,7 +322,6 @@ Below is a clean, production-grade taxonomy of who the audience could be — mea
 
 <a id="vision-rules"></a>
 
-## 6. Rules of Visions in Dune
 A canonical framework for narrative, design, and VR staging.
 
 ### **1. Visions Are Probability Maps, Not Prophecies**
