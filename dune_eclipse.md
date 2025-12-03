@@ -29,7 +29,17 @@
 
 <a id="experience-description"></a>
 
-Placeholder description
+In collaboration with Legendary, Primetime Emmy-Award winning Felix & Paul Studios is expanding the world of Dune into a cinematic-grade, large-scale location-based virtual reality experience.
+
+This project pioneers a bold new way for audiences and fans around the world to enter and explore the Dune universe - deepening their connection to its world and unlocking an entirely new revenue stream for the franchise.
+
+### The How
+
+We will create a large-scale, shared virtual reality experience capable of welcoming up to 170 guests per hour into a fully interactive VR world. This operations is built on the foundation of Felix & Paul Studio's two previous large-scale VR experiences - Space Explorers : The Infinite, and Interstellar Arc.
+
+### The Why
+
+We will transport audiences into the world of Dune as if it was real - and as if audiences were truly living inside it. Audiences will become protagonists in a narrative that unfolds in realtime - like a real-life experience. Only virtual reality can provide this direct and visceral sense of being fully present within, and interacting with, the world of Dune. It's ultimately an opportunity for audiences to deepen their connection to the Dune universe.
 
 </details>
 
