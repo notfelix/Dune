@@ -12,11 +12,11 @@
 </style>
 
 ## **Index**
-1. [Film Recaps: Part One, Part Two, Messiah](#recaps)
+1. [Experience Description and North Stars](#north-stars)
+2. [Film Recaps: Part One, Part Two, Messiah](#recaps)
    - [Part One](#part-one)
    - [Part Two](#part-two)
    - [Messiah](#messiah-film)
-2. [Experience North Stars & Group Storytelling](#north-stars)
 3. [Mechanics & Story Devices](#devices)
 4. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
 5. [Character Groups Justified in Having Visions](#groups)
@@ -25,7 +25,34 @@
 ---
 
 <details>
-<summary><strong>1. Film Recaps: Part One, Part Two, Messiah</strong></summary>
+<summary><strong>1. Experience Description and North Stars</strong></summary>
+
+<a id="north-stars"></a>
+
+### Experience Description
+Placeholder description
+
+### North Stars
+Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
+
+### **Epic + Intimate Poles**
+- VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
+
+### **Who We Are (Group Storytelling)**
+- The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
+
+### **Continuous-Time Flow**
+- Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
+
+### **High-Throughput Interaction**
+- Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
+
+</details>
+
+---
+
+<details>
+<summary><strong>2. Film Recaps: Part One, Part Two, Messiah</strong></summary>
 
 <a id="recaps"></a>
 
@@ -133,29 +160,6 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
   - Twins as Golden Path seed: preternatural awareness; prescient hope to break humanity’s dependence on narrow futures. [Birth of the Fremen Empire](#interstitial-8)
 
 </details>
-
-</details>
-
----
-
-<details>
-<summary><strong>2. Experience North Stars & Group Storytelling</strong></summary>
-
-<a id="north-stars"></a>
-
-Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
-
-### **Epic + Intimate Poles**
-- VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
-
-### **Who We Are (Group Storytelling)**
-- The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
-
-### **Continuous-Time Flow**
-- Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
-
-### **High-Throughput Interaction**
-- Interactive design must support throughput: choices that do not stall onboarding/offboarding; mechanics that keep groups moving while reinforcing immersion (e.g., comms system). Vision transitions are justified by spice density and ritual, preserving flow.
 
 </details>
 
