@@ -6,7 +6,7 @@
   /* Restore tiered heading sizing and boost fold/open titles */
   h2 { font-size: 1.5rem; font-weight: 700; margin: 1em 0 0.4em; }
   h3 { font-size: 1.25rem; font-weight: 700; margin: 1em 0 0.4em; }
-  h4, h5, h6 { font-size: 1.1rem; font-weight: 700; margin: 1em 0 0.4em; }
+ h4, h5, h6 { font-size: 1.1rem; font-weight: 700; margin: 1em 0 0.4em; }
   details > summary strong { font-size: 1.2rem; }
 </style>
 
@@ -17,9 +17,10 @@
    - [Part Two](#part-two)
    - [Messiah](#messiah-film)
 3. [Mechanics & Story Devices](#devices)
-4. [Narrative Opportunities Between Part Two & Messiah](#interstitial)
-5. [Character Groups Justified in Having Visions](#groups)
-6. [Rules of Visions in the Dune Universe](#vision-rules)
+4. [Character Groups Justified in Having Visions](#groups)
+5. [Rules of Visions in the Dune Universe](#vision-rules)
+6. [Appendix](#appendix)
+   - [Narrative Opportunities Between Part Two & Messiah](#interstitial)
 
 ---
 
@@ -190,79 +191,7 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 ---
 
 <details>
-<summary><strong>4. Narrative Opportunities Between Part Two & Messiah</strong></summary>
-
-<a id="interstitial"></a>
-
-Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, aligned to epic scale vs. deep intimacy, continuous flow, group identity, diegetic visions, and high-throughput interactivity. Villeneuve ends *Part Two* with Paul seizing the throne, Fremen fanatic devotion, Chani leaving, and a galaxy on the brink of holy war. *Messiah* begins 12 years later after a jihad reshapes the galaxy—leaving a goldmine in the first days, weeks, and months after ascension.
-
-<a id="interstitial-1"></a>
-
-### **1. Immediate Aftermath of Paul’s Victory**
-- **Worldstate**: Feyd is dead, the Emperor is deposed, Fremen ecstatic and volatile.
-- **Epic**: Smoldering imperial keep; massive Fremen host chanting “Muad’Dib!”; sandworms circling the plateau at night like living mountains.
-- **Intimate**: Reverend Mother (Jessica or new) pulls each guest aside for a post-battle “soul reading”: “Do you know the danger of what we have unleashed?”
-- **Group identity**: Fremen guerillas who fought with Paul or Atreides soldiers folded into Fremen ranks.
-- **Why it works**: Chaotic, politically fragile, perfect for continuous real-time right after the climax.
-
-<a id="interstitial-3"></a>
-
-### **2. Search for Paul and Jessica**
-- **Worldstate**: Shortly after conquest, Paul vanishes into deep desert with elite Fedaykin; Jessica disappears into the south for power consolidation/Water of Life/prescient conditioning.
-- **Group story**: You are a Fremen strike cell (or Atreides survivors integrated into Fremen) sent to track Paul’s path, check for hunters, and stop assassination attempts.
-- **Epic**: Following worm furrows at night; cresting a dune to reveal a sleeping behemoth; nearly swallowed as it stirs.
-- **Intimate**: Tiny incense-smoked sietch shrine visions—possible futures of Paul, risk of a messianic empire, war to come, your role in stabilizing or destabilizing it.
-
-<a id="interstitial-5"></a>
-
-### **3. Early Imperial Politics**
-- **Worldstate**: Landsraad in chaos; Guild Navigators fight for spice quotas; Bene Gesserit emissaries angle for control; Sardaukar remnants attempt guerrilla retaliation.
-- **Epic**: Colossal Guild Heighliner hovering over Arrakeen; Fremen sandcrawlers like ants under a celestial hull.
-- **Intimate**: BG envoy corners your group—probing intentions, testing loyalty, offering forbidden knowledge through whispered Voice. Ideal spot for a Reverend Mother + Gom Jabbar beat.
-
-<a id="interstitial-6"></a>
-
-### **4. First Water of Life Ceremonies**
-- **Worldstate**: Jessica oversees dangerous, hallucinatory rites—prescience-adjacent, deeply intimate, visually spectacular.
-- **Epic**: Massive underground cavern filled with chanting Fremen; swelling soundscape of voices merging with desert winds; visions of sandworms becoming “gods of time.”
-- **Intimate**: Reverend Mother takes each guest’s hand into shared prescient space; direct eye contact names fear, potential, role. Perfect diegetic trigger for flashforwards/branching while keeping continuous time.
-
-<a id="interstitial-7"></a>
-
-### **5. Deep Desert Pilgrimage**
-- **Worldstate**: Paul undertakes deep-desert excursions with select Fedaykin.
-- **Epic**: Colossal sandstorm; navigation by Arrakis’ moons; surrounded by four or five worms at once.
-- **Intimate**: Quiet, lamplit sietch moment; Reverend Mother confides, “Even Muad’Dib fears what he sees.” Personal vision of averting or amplifying catastrophe—individual arcs without breaking group cohesion.
-
-<a id="interstitial-4"></a>
-
-### **6. First Rebellions Against Paul**
-- **Worldstate**: Some sietches reject him politically, religiously, culturally—before the jihad goes galactic.
-- **Epic**: Approaching a cave-riddled ridge; echoes of rebellious Fremen chants; standoff between Paul-loyalists and a hardline sietch.
-- **Intimate**: In the depths, a Reverend Mother tests: “With the child of prophecy or the old ways?” Perfect for Gom Jabbar or vision corridor.
-- **Value**: Moral tension felt in VR—social choice, ritual test, reverence vs. danger.
-
-<a id="interstitial-2"></a>
-
-### **7. Early Formation of the Jihad**
-- **Worldstate**: Militias and offworld fanatics self-organize; Paul never wanted the jihad, but it builds anyway.
-- **Epic**: Massive gathering at the Arrakeen flats; early militias rally; sandworms approach; captured Sardaukar are paraded.
-- **Intimate**: Bene Gesserit Reverend Mother warns of the tidal wave; private test (Gom Jabbar variant) to see if you will prevent, survive, or be consumed by it.
-- **Flow**: Smoke clearing → chanting crowds → private chamber → visions → back to the desert.
-
-<a id="interstitial-8"></a>
-
-### **8. Birth of the Fremen Empire (First Edicts)**
-- **Worldstate**: Early decrees abolish select imperial taxes, restructure CHOAM influence, elevate Fremen as warrior elite, and manage spice flow to check the Guild.
-- **Epic**: Balcony view of a city illuminated in Fremen blue, celebrating new power.
-- **Intimate**: Jessica (or another Reverend Mother) aside: “History turns on fragile hinges. Even now, you may shape it.”
-
-</details>
-
----
-
-<details>
-<summary><strong>5. Character Groups Who Can Have Visions</strong></summary>
+<summary><strong>4. Character Groups Who Can Have Visions</strong></summary>
 
 <a id="groups"></a>
 
@@ -331,7 +260,7 @@ Below is a clean, production-grade taxonomy of who the audience could be — mea
 ---
 
 <details>
-<summary><strong>6. Rules of Visions in Dune</strong></summary>
+<summary><strong>5. Rules of Visions in Dune</strong></summary>
 
 <a id="vision-rules"></a>
 
@@ -392,6 +321,85 @@ A canonical framework for narrative, design, and VR staging.
 
 ### **The Golden Rule of Visions in Dune**
 - Prescience is perception of possibility, not destiny; fleeing a vision fulfills it, embracing it makes it slip away. This tension drives Dune’s spiritual engine.
+
+</details>
+
+---
+
+<details>
+<summary><strong>6. Appendix</strong></summary>
+
+<a id="appendix"></a>
+
+<details>
+<summary><strong>Narrative Opportunities Between Part Two & Messiah</strong></summary>
+
+<a id="interstitial"></a>
+
+Curated “experience nodes” between Villeneuve’s *Part Two* and *Messiah*, aligned to epic scale vs. deep intimacy, continuous flow, group identity, diegetic visions, and high-throughput interactivity. Villeneuve ends *Part Two* with Paul seizing the throne, Fremen fanatic devotion, Chani leaving, and a galaxy on the brink of holy war. *Messiah* begins 12 years later after a jihad reshapes the galaxy—leaving a goldmine in the first days, weeks, and months after ascension.
+
+<a id="interstitial-1"></a>
+
+### **1. Immediate Aftermath of Paul’s Victory**
+- **Worldstate**: Feyd is dead, the Emperor is deposed, Fremen ecstatic and volatile.
+- **Epic**: Smoldering imperial keep; massive Fremen host chanting “Muad’Dib!”; sandworms circling the plateau at night like living mountains.
+- **Intimate**: Reverend Mother (Jessica or new) pulls each guest aside for a post-battle “soul reading”: “Do you know the danger of what we have unleashed?”
+- **Group identity**: Fremen guerillas who fought with Paul or Atreides soldiers folded into Fremen ranks.
+- **Why it works**: Chaotic, politically fragile, perfect for continuous real-time right after the climax.
+
+<a id="interstitial-3"></a>
+
+### **2. Search for Paul and Jessica**
+- **Worldstate**: Shortly after conquest, Paul vanishes into deep desert with elite Fedaykin; Jessica disappears into the south for power consolidation/Water of Life/prescient conditioning.
+- **Group story**: You are a Fremen strike cell (or Atreides survivors integrated into Fremen) sent to track Paul’s path, check for hunters, and stop assassination attempts.
+- **Epic**: Following worm furrows at night; cresting a dune to reveal a sleeping behemoth; nearly swallowed as it stirs.
+- **Intimate**: Tiny incense-smoked sietch shrine visions—possible futures of Paul, risk of a messianic empire, war to come, your role in stabilizing or destabilizing it.
+
+<a id="interstitial-5"></a>
+
+### **3. Early Imperial Politics**
+- **Worldstate**: Landsraad in chaos; Guild Navigators fight for spice quotas; Bene Gesserit emissaries angle for control; Sardaukar remnants attempt guerrilla retaliation.
+- **Epic**: Colossal Guild Heighliner hovering over Arrakeen; Fremen sandcrawlers like ants under a celestial hull.
+- **Intimate**: BG envoy corners your group—probing intentions, testing loyalty, offering forbidden knowledge through whispered Voice. Ideal spot for a Reverend Mother + Gom Jabbar beat.
+
+<a id="interstitial-6"></a>
+
+### **4. First Water of Life Ceremonies**
+- **Worldstate**: Jessica oversees dangerous, hallucinatory rites—prescience-adjacent, deeply intimate, visually spectacular.
+- **Epic**: Massive underground cavern filled with chanting Fremen; swelling soundscape of voices merging with desert winds; visions of sandworms becoming “gods of time.”
+- **Intimate**: Reverend Mother takes each guest’s hand into shared prescient space; direct eye contact names fear, potential, role. Perfect diegetic trigger for flashforwards/branching while keeping continuous time.
+
+<a id="interstitial-7"></a>
+
+### **5. Deep Desert Pilgrimage**
+- **Worldstate**: Paul undertakes deep-desert excursions with select Fedaykin.
+- **Epic**: Colossal sandstorm; navigation by Arrakis’ moons; surrounded by four or five worms at once.
+- **Intimate**: Quiet, lamplit sietch moment; Reverend Mother confides, “Even Muad’Dib fears what he sees.” Personal vision of averting or amplifying catastrophe—individual arcs without breaking group cohesion.
+
+<a id="interstitial-4"></a>
+
+### **6. First Rebellions Against Paul**
+- **Worldstate**: Some sietches reject him politically, religiously, culturally—before the jihad goes galactic.
+- **Epic**: Approaching a cave-riddled ridge; echoes of rebellious Fremen chants; standoff between Paul-loyalists and a hardline sietch.
+- **Intimate**: In the depths, a Reverend Mother tests: “With the child of prophecy or the old ways?” Perfect for Gom Jabbar or vision corridor.
+- **Value**: Moral tension felt in VR—social choice, ritual test, reverence vs. danger.
+
+<a id="interstitial-2"></a>
+
+### **7. Early Formation of the Jihad**
+- **Worldstate**: Militias and offworld fanatics self-organize; Paul never wanted the jihad, but it builds anyway.
+- **Epic**: Massive gathering at the Arrakeen flats; early militias rally; sandworms approach; captured Sardaukar are paraded.
+- **Intimate**: Bene Gesserit Reverend Mother warns of the tidal wave; private test (Gom Jabbar variant) to see if you will prevent, survive, or be consumed by it.
+- **Flow**: Smoke clearing → chanting crowds → private chamber → visions → back to the desert.
+
+<a id="interstitial-8"></a>
+
+### **8. Birth of the Fremen Empire (First Edicts)**
+- **Worldstate**: Early decrees abolish select imperial taxes, restructure CHOAM influence, elevate Fremen as warrior elite, and manage spice flow to check the Guild.
+- **Epic**: Balcony view of a city illuminated in Fremen blue, celebrating new power.
+- **Intimate**: Jessica (or another Reverend Mother) aside: “History turns on fragile hinges. Even now, you may shape it.”
+
+</details>
 
 </details>
 
