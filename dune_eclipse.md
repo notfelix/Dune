@@ -139,10 +139,10 @@ Consolidated summaries of the essential story events from Denis Villeneuve’s f
 Core principles to keep available in every conversation so epic and intimate moments stay balanced and operationally feasible.
 
 ### **Epic + Intimate Poles**
-- VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with the swing from “towering sandworm at full presence” to “small sietch chamber, face-to-face with a Reverend Mother and the Gom Jabbar.”
+- VR superpowers: present the gigantic at true scale and create striking intimacy. Anchor the experience with deliberate swings between vast, elemental Arrakis spaces and tight, ritual-heavy interiors where eye contact, breath, and silence carry the drama.
 
 ### **Who We Are (Group Storytelling)**
-- The audience are lead protagonists; identity must work as a group. Current creative: Gurney Halleck’s surviving Atreides soldiers on a mission to find Paul and Jessica. Possible pivot: align to *Messiah* era as Fremen within the Arrakis guerrilla. Locking a clear group identity unblocks downstream choices (tone, mechanics, casting).
+- The audience are lead protagonists; identity must work as a group. Pick one coherent in-world role (e.g., a single sietch cell, elite strike cohort, or imperial envoy team) and build every choice, ritual, and mechanic around that shared lens. Locking a clear group identity unblocks tone, mechanics, casting, and keeps agency aligned.
 
 ### **Continuous-Time Flow**
 - Design as continuous real-time to deepen immersion; avoid hard scene cuts. Only break time diegetically via visions (future/past) to maintain realism while enabling redirection and montage.
